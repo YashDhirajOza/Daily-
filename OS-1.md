@@ -119,3 +119,18 @@ The multiprogramming objective is to allow more processes to run at the same tim
 -It may be extended to multiple users.
 -It has the ability to assign priority to different processes.
 
+
+## Define: Context Switching
+ - Context Switching is the process of storing the state of a running process or thread so that it can be restored and resume executaion at a late point and then loading the context or state of another or thread and run  it
+ - Context Switching is necessary for multitasking and efficient resourse management
+ - Contest switching involes saving the following infomation
+ - the contest of the CPU registers which store the current state of the process
+ - THe process or thread memory map which maps the process or thread virtual memory address to its physical address
+   The process fucntion call stack and other infomation which is needed to reume its execution
+
+## Context Switching is OS
+-IT Allows MultiTasking
+- eFFICIENT RESOURCE MANAGEMENT
+- 
+ - 
+
