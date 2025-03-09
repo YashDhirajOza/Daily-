@@ -1,0 +1,10 @@
+Concurrency in operratin system refers to the excution of several program ar the same time . 
+It takes place in Os . When multiple processes are executing in parallel 
+It is the execution of processes to provide an impression of a synchronous computation 
+resources are shared among the processes that result in troubles such as starvation and deadlocks 
+It supports mechanism like memory allocation , Execution of processes and compuation scheduling to maximise the output
+Concurrency in operatinf system refers to the ability of the system to manage multiple operations or processes simultaneously 
+It involes the executaion of several process swquence over time in over lapping time periods rather than executing them sequentially 
+Aim is to maximize the utilization of computing resources by ensuring that these rescourse are not left idle while there are tasks waiting to be executedWhile related, parallelism and concurrency are distinct concepts. Parallelism involves performing multiple operations at the exact same time, often using multicore processors. Concurrency, on the other hand, focuses on managing multiple operations at overlapping times, even if not all operations are being executed simultaneously.
+While related, parallelism and concurrency are distinct concepts. Parallelism involves performing multiple operations at the exact same time, often using multicore processors. Concurrency, on the other hand, focuses on managing multiple operations at overlapping times, even if not all operations are being executed simultaneously.
+
